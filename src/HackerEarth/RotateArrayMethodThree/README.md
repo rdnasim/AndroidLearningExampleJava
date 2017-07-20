@@ -23,9 +23,12 @@ Here is an example for n =12 and d = 3. GCD is 3 and
   Let arr[] be {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
 
   a)	Elements are first moved in first set – (See below diagram for this movement)
-  <p align="center">
-  <img src="https://github.com/rdnasim/AndroidLearningExampleJava/blob/master/src/Assets/ArrayRotation2.gif">
-  </p>
+```
+<p align="center">
+<img src="https://github.com/rdnasim/AndroidLearningExampleJava/blob/master/src/Assets/ArrayRotation2.gif">
+</p>
+
+```
   arr[] after this step --> {4 2 3 7 5 6 10 8 9 1 11 12}
 
   b)	Then in second set.

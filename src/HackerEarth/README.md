@@ -46,3 +46,11 @@ Implementation:
 # Java
 
 [****CODE HERE****](https://github.com/rdnasim/AndroidLearningExampleJava/blob/master/src/HackerEarth/RotateArray.java)
+
+## Output:
+```
+3 4 5 6 7 1 2 
+```
+**Time complexity**: O(n*d)
+
+**Auxiliary Space**: O(1)

@@ -1,5 +1,7 @@
 package HackerEarth;
 
+//rotate array one by one
+//datastructure
 public class RotateArray {
     /*Function to left rotate arr[] of size n by d*/
     void leftRotate(int arr[], int d, int n)

@@ -1,4 +1,4 @@
-package HackerEarth;
+package HackerEarth.RotateArrayMethodTwo;
 
 //rotate array one by one
 //datastructure
@@ -39,3 +39,4 @@ public class RotateArray {
 }
 
 // This code has been contributed by Mayank Jaiswal
+//http://www.geeksforgeeks.org/array-rotation/

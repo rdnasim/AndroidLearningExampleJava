@@ -6,4 +6,4 @@
 
 #### it's android development over java all topic learning
 
-[details](www.rdnasim.wordpress.com)
+[details in my blog](www.rdnasim.wordpress.com)

@@ -1,4 +1,4 @@
-package practice_onboarding;
+package practice_onboarding.SumOfTwo;
 
 import java.util.Scanner;
 

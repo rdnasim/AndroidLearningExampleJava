@@ -11,5 +11,4 @@ Instructions:
 * You have to write the logic to add the elements.
 * Print the sum.
 
-
-
+# Simple Preview change

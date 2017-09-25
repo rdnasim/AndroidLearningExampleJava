@@ -30,7 +30,7 @@ Implementation:
 
 # Java
 
-[****CODE HERE****](https://github.com/rdnasim/AndroidLearningExampleJava/blob/master/src/HackerEarth/RotateArray.java)
+[****CODE HERE****](https://github.com/rdnasim/AndroidLearningExampleJava/blob/master/src/HackerEarth/RotateArrayMethodTwo/RotateArray.java)
 
 ## Output:
 ```
